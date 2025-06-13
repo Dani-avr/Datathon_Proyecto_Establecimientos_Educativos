@@ -70,3 +70,5 @@ Adicionalmente, utilizamos la herramienta Trello como tablero de gestión de tar
     * Link de origen del Dataset empleado (ultima actualización: Febrero 2025): https://www.datos.gov.co/en/Educaci-n/ESTABLECIMIENTOS-EDUCATIVOS-COLOMBIA/upkm-vdjb/about_data
  
     * Archivo excel final para ejecutar el código: DATASET_LIMPIO_DATATHON_1.0 - DISCAPACIDADES DEPURADAS_v1 (lo encuentras en este repositorio)
+ 
+    * Link presentación: https://www.canva.com/design/DAGqLDvgsjc/1iPqiTIkKrkVtH7MU4yjDA/view?utm_content=DAGqLDvgsjc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha7365bac33
